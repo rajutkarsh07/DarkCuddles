@@ -1,0 +1,25 @@
+{
+  "short_name": "darkCuddles",
+  "name": "darkCuddles",
+  "icons": [
+    {
+      "src": "darkcuddles.png",
+      "type": "image/jpg",
+      "sizes": "64x64"
+    },
+    {
+      "src": "darkcuddles.png",
+      "type": "image/jpg",
+      "sizes": "256x256"
+    },
+    {
+      "src": "darkcuddles.png",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffa576",
+  "background_color": "#ffa576"
+}
